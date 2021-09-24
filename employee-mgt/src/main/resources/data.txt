@@ -1,0 +1,6 @@
+INSERT INTO departmentbl (department_name)
+VALUES ('Promotions'),
+       ('Administration'),
+       ('Engineering'),
+       ('Sales'),
+       ('Transport');
